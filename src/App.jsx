@@ -4,6 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <h1>Exemplo React Hook Form</h1>
       <Formulario />
     </div>
   );
